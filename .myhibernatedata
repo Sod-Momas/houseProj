@@ -1,0 +1,24 @@
+#MyEclipse Hibernate Properties
+#Mon Oct 09 18:34:45 CST 2017
+sessionFactoryName=cn.icloudit.utils.HibernateSessionFactory
+genBasicCompId=true
+profile=
+daoSFId=
+version=3.3
+jndiPath=
+detectM2M=true
+reStrategyClass=
+detectO2O=true
+springDaoFile=
+useJavaTypes=true
+keyGenerator=sequence
+libInstallFolder=/WebRoot/WEB-INF/lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/9.5house_OpenSessionInView/hibernate.reveng.xml
+configFile=/9.3house_\u7528\u6237\u767B\u5F55/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=true
